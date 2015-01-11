@@ -30,14 +30,14 @@ h1 {
     padding-top: 0;
 }
 
-ul {
+ul#nav {
     list-style-type: none;
     text-align: center;
     padding: 0;
     margin: 1em 0;
 }
 
-ul li {
+ul#nav li {
     display: inline-block;
 }
 
